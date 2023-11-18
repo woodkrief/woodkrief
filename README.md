@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi, I'm Roman 👋
+Junior Data Analyst. At the moment I have a diploma of completion of a special course from Yandex. 
+9 educational projects were completed (based on real data). 
+I continue to study and improve using open sources.
 
-<!--
-**woodkrief/woodkrief** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+   <a href="https://t.me/geheimnisvoller_wald">
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
+<p align='center'>
+   📫 How to reach me: <a href='mailto:6roman6652@gmail.com'>6roman6652@gmail.com</a>
+</p>
 
-Here are some ideas to get you started:
+## 🛠 Technical Stack
+*   Python/ MySQL/ PostgreSQL
+*   Excel / Tableau / Jupyter
+*   GitHub/GitLab
+*   AI learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+    <a href="https://drive.google.com/uc?export=view&id=1qLPi54k0_5VcAP2XhOvCPdCCBlx_9R1H">
+        <img src="https://drive.google.com/uc?export=view&id=1qLPi54k0_5VcAP2XhOvCPdCCBlx_9R1H" alt="Your Image" width="300" height="200">
+    </a>
+</div>

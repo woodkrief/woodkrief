@@ -1,5 +1,5 @@
 # Hi, I'm Roman 👋
-Junior Data Analyst:
+Junior Data Analyst.
 Currently, I hold a diploma from a specialized course offered by Yandex Practicum. 
 During my studies, I successfully completed nine educational projects, all based on real-world data. Some of them are posted in the repository.
 My commitment to continuous learning and improvement is further supported by ongoing self-education using open-source materials
